@@ -1,0 +1,7 @@
+Dependencies
+- Python 3
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
